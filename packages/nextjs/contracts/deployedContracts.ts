@@ -226,7 +226,7 @@ const deployedContracts = {
   },
   11155111: {
     DiceGame: {
-      address: "0x79649f7fbaF7Ecc6aD05006D1829d623aF4fC1F6",
+      address: "0xaf4003ECb499ad3BfD11C87011e980B42b278094",
       abi: [
         {
           inputs: [],
@@ -323,7 +323,7 @@ const deployedContracts = {
       inheritedFunctions: {},
     },
     RiggedRoll: {
-      address: "0xdf22dC8Caf7132C2b0A56b95FE3Ffd0A39b30257",
+      address: "0x5d625431e379c5A035A68a9589246c24b0bb5e36",
       abi: [
         {
           inputs: [
